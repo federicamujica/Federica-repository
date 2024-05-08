@@ -1,0 +1,70 @@
+body{ 
+
+    background-color:  #EEEDBE ;
+}
+
+h1{
+    color: rgb(115, 68, 68);
+    text-align: center;
+    font-family: "Arvo", cursive;
+    font-weight: 700;
+
+}
+
+h2{
+    color:rgb(195, 120, 87) ;
+    text-align: center;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    color: rgb(115, 68, 68);
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.foto4{
+    width: 350px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.foto5{
+    width: 350px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.foto6{
+    width: 350px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+#foto7{
+
+    align-content: center;
+}
+
+h4{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#foto7{
+text-align: center;
+margin-bottom: 50px;
+}
