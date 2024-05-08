@@ -34,7 +34,8 @@ p{
     height: 300px;
     margin-left: 10px;
     margin-right: 10px;
-    display: flex;
+
+
 }
 
 .foto5{
@@ -42,7 +43,7 @@ p{
     height: 300px;
     margin-left: 10px;
     margin-right: 10px;
-    display: flex;
+
 }
 
 .foto6{
@@ -67,4 +68,8 @@ h4{
 #foto7{
 text-align: center;
 margin-bottom: 50px;
+}
+
+.container{
+    text-align: center;
 }
